@@ -21,7 +21,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>LOGIN PAGE</title>
+	<title>USER LOGIN PAGE</title>
 	<link rel="stylesheet" type="text/css" href="main.css">
 
 	<!--custom fonts -->
